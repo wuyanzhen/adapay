@@ -1,3 +1,2 @@
-/.git
-/.idea
-*.log
+/vendor/
+/phpunit-6.5.3.phar
